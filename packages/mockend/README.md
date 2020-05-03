@@ -1,5 +1,13 @@
 # Usage
 
+Command line
+
+```
+mockend
+```
+
+Module
+
 ```
 const server = require("mockend");
 

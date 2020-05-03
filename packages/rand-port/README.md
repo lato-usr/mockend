@@ -1,5 +1,13 @@
 # Usage
 
+Command line
+
+```
+rand-port
+```
+
+Module
+
 ```
 const randPort = require("@mockend/rand-port");
 

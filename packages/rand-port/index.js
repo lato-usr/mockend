@@ -2,7 +2,7 @@
 
 const _random = require('lodash.random')
 
-module.exports = (type) => {
+module.exports = (type = 'user') => {
   switch (type) {
     case 'system':
       return _random(0, 1023)

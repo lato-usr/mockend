@@ -12,7 +12,7 @@ Module
 const randPort = require("@mockend/rand-port");
 
 randPort();
-randPort('user');
+randPort("user");
 ```
 
 __randPort(['system'|'user'|'dynamic'])__ (default: user)

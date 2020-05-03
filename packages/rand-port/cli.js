@@ -4,4 +4,4 @@
 
 const randPort = require('.')
 
-console.log(randPort())
+console.log(randPort(process.argv[2] || 'user'))

@@ -3,7 +3,7 @@
 Command line
 
 ```
-rand-port
+rand-port [system|user|dynamic]
 ```
 
 Module

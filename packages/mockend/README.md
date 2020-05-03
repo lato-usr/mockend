@@ -3,7 +3,7 @@
 Command line
 
 ```
-mockend
+mockend [port]
 ```
 
 Module

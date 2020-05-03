@@ -1,0 +1,27 @@
+{
+  "name": "@mockend/rand-port",
+  "version": "1.0.0",
+  "description": "rand port",
+  "keywords": [
+    "rand",
+    "port"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lato-usr/mockend.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^25.5.3"
+  },
+  "engines": {
+    "node": "10"
+  },
+  "dependencies": {
+    "lodash.random": "^3.2.0"
+  }
+}

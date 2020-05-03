@@ -1,0 +1,28 @@
+{
+  "name": "mockend",
+  "version": "1.0.0",
+  "description": "mock",
+  "keywords": [
+    "mock"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lato-usr/mockend.git"
+  },
+  "scripts": {
+    "dev": "node server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^25.5.3",
+    "supertest": "^4.0.2"
+  },
+  "engines": {
+    "node": "10"
+  }
+}
